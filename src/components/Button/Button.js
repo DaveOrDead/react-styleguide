@@ -1,8 +1,8 @@
-import styles from './Buttons.css';
+import styles from './Button.css';
 
 import React, { Component } from 'react';
 
-export default class Buttons extends Component {
+export default class Button extends Component {
 
   render() {
   	let className, text = this.props.text

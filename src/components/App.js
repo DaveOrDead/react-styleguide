@@ -2,7 +2,7 @@ import styles from './App.css';
 
 import React, { Component } from 'react';
 
-import ButtonsDemo from './Buttons/ButtonsDemo';
+import ButtonDemo from './Button/ButtonDemo';
 
 export default class App extends Component {
 
@@ -13,10 +13,10 @@ export default class App extends Component {
 
         <hr className={styles.hr} />
 
-		<h2>Buttons</h2>
+		<h2>Button</h2>
         <p>Standard button element</p>
 
-        <ButtonsDemo />
+        <ButtonDemo />
 
         <hr className={styles.hr} />
 
