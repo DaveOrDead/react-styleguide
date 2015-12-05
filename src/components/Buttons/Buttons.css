@@ -1,0 +1,28 @@
+
+.common {
+	display: inline-block;
+	padding: 10px 20px;
+	border-radius: 3px;
+	border: none;
+	color: #FFF;
+}
+.normal {
+	composes: common;
+	background-color: #1abc9c;
+	border-bottom: 3px solid #16a085;
+}
+.disabled {
+	composes: common;
+	background-color: #bdc3c7;
+	border-bottom: 3px solid #7f8c8d;
+}
+.error {
+	composes: common;
+	background-color: #e74c3c;
+	border-bottom: 3px solid #c0392b;
+}
+.inProgress {
+	composes: common;
+	background-color: #e67e22;
+	border-bottom: 3px solid #d35400;
+}
