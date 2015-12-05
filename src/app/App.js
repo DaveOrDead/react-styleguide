@@ -2,7 +2,7 @@ import styles from './App.css';
 
 import React, { Component } from 'react';
 
-import ButtonDemo from './Button/ButtonDemo';
+import ButtonDemo from './components/Button/ButtonDemo';
 
 export default class App extends Component {
 
