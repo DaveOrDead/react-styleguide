@@ -1,0 +1,2682 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Button",
+				"ButtonsDemo	(ButtonsDemo.js)"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"pos",
+				"position	(_navigation.scss)"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"ver",
+				"vertical-align"
+			],
+			[
+				"link",
+				"linkIndex"
+			],
+			[
+				"clas",
+				"classList	(vanilla-ui.tabs.js)"
+			],
+			[
+				"cl",
+				"classList"
+			],
+			[
+				"acti",
+				"activeTabNav"
+			],
+			[
+				"tart",
+				"targetPane"
+			],
+			[
+				"act",
+				"activePane"
+			],
+			[
+				"Ele",
+				"domElements"
+			],
+			[
+				"js-tab",
+				"js-tab-nav"
+			],
+			[
+				"targ",
+				"targetInput"
+			],
+			[
+				"backgo",
+				"background-color"
+			],
+			[
+				"panel__",
+				"panel__content"
+			],
+			[
+				"loading",
+				"loadingResults"
+			],
+			[
+				"med",
+				"@media	@media ${1:screen} {\n	${0}\n}"
+			],
+			[
+				"cate",
+				"categories"
+			],
+			[
+				"showBy",
+				"showByAxis"
+			],
+			[
+				"spendPer",
+				"spendPerAxis"
+			],
+			[
+				"spendp",
+				"spendPerAxis"
+			],
+			[
+				"current",
+				"currentUserView"
+			],
+			[
+				"for",
+				"for	for (…) {…}"
+			],
+			[
+				"card",
+				"carddata"
+			],
+			[
+				"actions",
+				"actions__item"
+			],
+			[
+				"user",
+				"userId"
+			],
+			[
+				"e",
+				"email"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"repo",
+				"reporter"
+			],
+			[
+				"write",
+				"writePromise"
+			],
+			[
+				"de",
+				"deferred"
+			],
+			[
+				"ins",
+				"instore"
+			],
+			[
+				"merge",
+				"merge_rule_elements"
+			],
+			[
+				"merg",
+				"merge_rule_elements"
+			],
+			[
+				"from",
+				"fromValue"
+			],
+			[
+				"rule",
+				"ruleElement"
+			],
+			[
+				"sour",
+				"source_systems"
+			],
+			[
+				"source",
+				"source_system"
+			],
+			[
+				"format",
+				"format_rule"
+			],
+			[
+				"fn",
+				"function	function"
+			],
+			[
+				"query",
+				"queryString"
+			],
+			[
+				"q",
+				"query"
+			],
+			[
+				"que",
+				"queryString"
+			],
+			[
+				"rules",
+				"rulesRes"
+			],
+			[
+				"ruleV",
+				"ruleValue"
+			],
+			[
+				"sur",
+				"source_system"
+			],
+			[
+				"c",
+				"columnname"
+			],
+			[
+				"soure",
+				"source_system"
+			],
+			[
+				"insert",
+				"insertTestData"
+			],
+			[
+				"data",
+				"dataType"
+			],
+			[
+				"res",
+				"results"
+			],
+			[
+				"clum",
+				"columnName"
+			],
+			[
+				"table",
+				"tableName"
+			],
+			[
+				"wegiht",
+				"weightedRatio"
+			],
+			[
+				"weg",
+				"weightedRatio"
+			],
+			[
+				"weightedr",
+				"weightedRatioAgg"
+			],
+			[
+				"we",
+				"weightedRatioAgg"
+			],
+			[
+				"cons",
+				"connString"
+			],
+			[
+				"uno",
+				"unorderedTransaction"
+			],
+			[
+				"weighted",
+				"weightedRatioAgg"
+			],
+			[
+				"create",
+				"createMethod"
+			],
+			[
+				"weight",
+				"weightedRatio"
+			],
+			[
+				"invoice",
+				"invoiceTransaction"
+			],
+			[
+				"expe",
+				"expected"
+			],
+			[
+				"cancelled",
+				"cancelledPoCount"
+			],
+			[
+				"unclas",
+				"unclassified_spend"
+			],
+			[
+				"spend",
+				"spendRecord"
+			],
+			[
+				"count",
+				"count_qty"
+			],
+			[
+				"spedn",
+				"spendRecord"
+			],
+			[
+				"pro",
+				"prom"
+			],
+			[
+				"ino",
+				"invoice"
+			],
+			[
+				"Weighted",
+				"weightedRatioAgg"
+			],
+			[
+				"uqueue",
+				"uqueue_push"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"system",
+				"systems"
+			],
+			[
+				"tra",
+				"trackPromise"
+			],
+			[
+				"function",
+				"function	function"
+			],
+			[
+				"track",
+				"trackType"
+			],
+			[
+				"fun",
+				"function	function"
+			],
+			[
+				"resul",
+				"resultRow"
+			],
+			[
+				"values",
+				"values"
+			],
+			[
+				"pass",
+				"passThrough"
+			],
+			[
+				"passh",
+				"passThrough"
+			],
+			[
+				"proj",
+				"project"
+			],
+			[
+				"suppl",
+				"supplier"
+			],
+			[
+				"axe",
+				"axes"
+			],
+			[
+				"sup",
+				"supplierid"
+			],
+			[
+				"next",
+				"nextHold"
+			],
+			[
+				"inv",
+				"invoice_holds"
+			],
+			[
+				"build",
+				"buildAggPred"
+			],
+			[
+				"return",
+				"returnQuery"
+			],
+			[
+				"ca",
+				"category"
+			],
+			[
+				"supp",
+				"supplier"
+			],
+			[
+				"hold",
+				"hold_date"
+			],
+			[
+				"ex",
+				"exception"
+			],
+			[
+				"interna",
+				"internalItmID"
+			],
+			[
+				"new",
+				"newRow"
+			],
+			[
+				"has",
+				"hasProp"
+			],
+			[
+				"categ",
+				"category"
+			],
+			[
+				"axs",
+				"axes"
+			],
+			[
+				"cat",
+				"categoryid"
+			],
+			[
+				"su",
+				"supplierid"
+			],
+			[
+				"in",
+				"invoice_holds"
+			],
+			[
+				"aggrega",
+				"aggregations"
+			],
+			[
+				"old",
+				"oldRow"
+			],
+			[
+				"invoic",
+				"invoice_hold_over"
+			],
+			[
+				"resu",
+				"resultName"
+			],
+			[
+				"measure",
+				"measure_values"
+			],
+			[
+				"measu",
+				"measure"
+			],
+			[
+				"inoice",
+				"invoice_holds"
+			],
+			[
+				"inter",
+				"internalHoldID"
+			],
+			[
+				"man",
+				"manual_source_system"
+			],
+			[
+				"et",
+				"externalID"
+			],
+			[
+				"invoice_",
+				"invoice_hold_maps"
+			],
+			[
+				"internal",
+				"internal_id"
+			],
+			[
+				"getsert",
+				"getsert_invoiceHold"
+			],
+			[
+				"plplg",
+				"plpgsqlFunction	plpgsqlFunction"
+			],
+			[
+				"O",
+				"oldHold"
+			],
+			[
+				"intenral",
+				"internalHoldID"
+			],
+			[
+				"war",
+				"WARNING"
+			],
+			[
+				"Not",
+				"NOTICE"
+			],
+			[
+				"obj",
+				"objOrMessage"
+			],
+			[
+				"err",
+				"errObjOrMessage"
+			],
+			[
+				"error",
+				"errObjOrMessage"
+			],
+			[
+				"recei",
+				"receipt_lines"
+			],
+			[
+				"exter",
+				"external_id"
+			],
+			[
+				"inten",
+				"internalSupAddID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "README.md",
+			"settings":
+			{
+				"buffer_size": 345,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 1137,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/index.js",
+			"settings":
+			{
+				"buffer_size": 78,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/App.js",
+			"settings":
+			{
+				"buffer_size": 415,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 32,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/shared/Snippet/Snippet.js",
+			"settings":
+			{
+				"buffer_size": 1869,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/shared/styles/table.css",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/components/Button/ButtonDemo.js",
+			"settings":
+			{
+				"buffer_size": 1086,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/app/components/Button/ButtonSample.html",
+			"settings":
+			{
+				"buffer_size": 27,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"todore",
+				"TodoReview: Project Files"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"todor",
+				"TodoReview: Project Files"
+			],
+			[
+				"todo",
+				"TodoReview: Project Files"
+			],
+			[
+				"Snippet: ",
+				"Snippet: Function"
+			],
+			[
+				"todorevew",
+				"TodoReview: Project and Open Files"
+			],
+			[
+				"instak",
+				"Package Control: Install Package"
+			],
+			[
+				"config",
+				"TypeTodo: Open config: Global"
+			],
+			[
+				"typetodo",
+				"TypeTodo: Browse project's HTTP repository"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"todone",
+				"Set Syntax: ToDone"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"package",
+				"Package Control: Remove Package"
+			],
+			[
+				"intro",
+				"Snippet: #INTRO"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"sublimer",
+				"Sublimerge: Compare to View..."
+			],
+			[
+				"snip",
+				"Snippet: #INTRO"
+			],
+			[
+				"sni",
+				"Snippet: #INTRO"
+			],
+			[
+				"itnro",
+				"Snippet: #INTRO"
+			],
+			[
+				"snipp",
+				"Snippet: #INTRO"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"jshint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"lin",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"jslin",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"jslint",
+				"JSHint: Set Linting Preferences"
+			],
+			[
+				"code intel",
+				"SublimeCodeIntel: Reset"
+			],
+			[
+				"show",
+				"Show TODOs: Open files only"
+			],
+			[
+				"show ",
+				"Show TODOs: Open files only"
+			],
+			[
+				"show to",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"packag",
+				"Package Control: Remove Package"
+			],
+			[
+				"linting",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"enable l",
+				"SublimeLinter: Disable Linting"
+			],
+			[
+				"annotations",
+				"SublimeLinter: Extract Annotations"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"linter",
+				"Preferences: SublimeLinter Settings – User"
+			],
+			[
+				"linter sett",
+				"Preferences: SublimeLinter Settings – Default"
+			],
+			[
+				"pak",
+				"Package Control: Add Repository"
+			],
+			[
+				"pacl",
+				"Package Control: Install Package"
+			],
+			[
+				"Show",
+				"Show TODOs: Project and open files"
+			],
+			[
+				"PAckage",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 408.0
+	},
+	"console":
+	{
+		"height": 125.0,
+		"history":
+		[
+			"import urllib.request,os; pr='Preferences.sublime-settings'; ip='ignored_packages'; n='Package Control'; s=sublime.load_settings(pr); ig=s.get(ip); ig.append(n); s.set(ip,ig); sublime.save_settings('Preferences.sublime-settings'); pf=n+'.sublime-package'; urllib.request.install_opener(urllib.request.build_opener(urllib.request.ProxyHandler())); by=urllib.request.urlopen('https://packagecontrol.io/'+pf.replace(' ','%20')).read(); open(os.path.join(sublime.installed_packages_path(),pf),'wb').write(by); ig.remove(n); s.set(ip,ig); sublime.save_settings(pr); print('Package Control: 3.0.0 upgrade successful!')",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Applications/MAMP/htdocs/cm-styleguide",
+		"/Applications/MAMP/htdocs/cm-styleguide/src",
+		"/Applications/MAMP/htdocs/cm-styleguide/src/app"
+	],
+	"file_history":
+	[
+		"/Applications/MAMP/htdocs/cm-styleguide/src/app/components/Button/Button.js",
+		"/Applications/MAMP/htdocs/cm-styleguide/webpack.config.js",
+		"/Applications/MAMP/htdocs/cm-styleguide/src/app/Button_page.js",
+		"/Applications/MAMP/htdocs/cm-styleguide/src/app/components/Login/Login.js",
+		"/Applications/MAMP/htdocs/cm-styleguide/src/App.js",
+		"/Applications/MAMP/htdocs/cm-styleguide/src/components/Buttons/ButtonsDemo.js",
+		"/Applications/MAMP/htdocs/cm-styleguide/.editorconfig",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/components/6-Buttons/Buttons.js",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/components/6-Buttons/Buttons.css",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/components/6-Buttons/ButtonsDemo.js",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/components/App.js",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/index.js",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/template.ejs",
+		"/Applications/MAMP/htdocs/webpack-demo-master/src/components/shared/Snippet/Snippet.js",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_buttons.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/setup.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/_shame.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/index.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/documentation-nav.html-include",
+		"/Applications/MAMP/htdocs/pogostack.com/write.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/for_loop.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/footer.html-include",
+		"/Applications/MAMP/htdocs/pogostack.com/for_loop.html",
+		"/Applications/MAMP/htdocs/pogostack.com/if_else.html",
+		"/Applications/MAMP/htdocs/pogostack.com/if_else.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/includes.html",
+		"/Applications/MAMP/htdocs/pogostack.com/includes.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/partials.html",
+		"/Applications/MAMP/htdocs/pogostack.com/partials.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/pogo_and_angular.html",
+		"/Applications/MAMP/htdocs/pogostack.com/pogo_and_angular.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/tutorial.html",
+		"/Applications/MAMP/htdocs/pogostack.com/tutorial.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/tutorial_team_list.html",
+		"/Applications/MAMP/htdocs/pogostack.com/documentation.html",
+		"/Applications/MAMP/htdocs/pogostack.com/documentation.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/faq.html",
+		"/Applications/MAMP/htdocs/pogostack.com/faq.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/file_structure.html",
+		"/Applications/MAMP/htdocs/pogostack.com/file_structure.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/tutorial_part_2.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/navigation.html-include",
+		"/Applications/MAMP/htdocs/pogostack.com/header.html-include",
+		"/Applications/MAMP/htdocs/pogostack.com/tutorial_team_list.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/layout/_navigation.scss",
+		"/Applications/MAMP/htdocs/pogo_todo/app/compile-all.sh",
+		"/Applications/MAMP/htdocs/pogo_todo/app/pogo_server_config.txt",
+		"/Users/davidberner/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Applications/MAMP/htdocs/pogostack.com/readme.md",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/layout/_footer.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/index.html",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/core/_reset.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/about.html",
+		"/Applications/MAMP/htdocs/pogostack.com/contact.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/about.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/contact.html",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/layout/_page.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/to_do_app.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/quick_start.html-template",
+		"/Applications/MAMP/htdocs/pogostack.com/to_do_app.html",
+		"/Applications/MAMP/htdocs/pogostack.com/pogo_vs_angular.html",
+		"/Applications/MAMP/htdocs/pogostack.com/quick_start.html",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/main.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_lede.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_hero.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_email_form.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_content_block.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_code.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/components/_lists.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/core/_defaults.scss",
+		"/private/etc/hosts",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/layout/_header.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/scss/core/_vars.scss",
+		"/Applications/MAMP/htdocs/pogostack.com/layout_header.pgasp",
+		"/Users/davidberner/Downloads/icomoon_8_icons/SVG/linkedin.svg",
+		"/Applications/MAMP/htdocs/vanilla-ui/dropdown/css/vanilla-ui.dropdown.css",
+		"/Applications/MAMP/htdocs/vanilla-ui/tabs/tabs.html",
+		"/Applications/MAMP/htdocs/vanilla-ui/dropdown/readme.md",
+		"/Applications/MAMP/htdocs/vanilla-ui/tabs/js/vanilla-ui.tabs.js",
+		"/Applications/MAMP/htdocs/vanilla-ui/tabs/css/vanilla-ui.tabs.css",
+		"/Applications/MAMP/htdocs/vanilla-ui/tabs/readme.md",
+		"/Applications/MAMP/htdocs/vanilla-ui/readme.md",
+		"/Applications/MAMP/htdocs/vanilla-ui/dropdown/dropdown.html",
+		"/Applications/MAMP/htdocs/vanilla-ui/dropdown/js/vanilla-ui.dropdown.js",
+		"/Applications/MAMP/htdocs/vanilla-ui/modal/js/vanilla-ui.modal.js",
+		"/Applications/MAMP/htdocs/vanilla-ui/modal/css/vanilla-ui.modal.css",
+		"/Applications/MAMP/htdocs/vanilla-ui/modal/modal.html",
+		"/Applications/MAMP/htdocs/vanilla-ui/styleguide.md",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/app-services.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/modules/transaction-wall/transaction-wall-controller.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/components/panels/panel.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/modules/spend-wall/spend-wall-controller.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/modules/tasks/tasks-controller.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/views/modules/tasks/tasks.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/components/tables/table.html",
+		"/Users/davidberner/Desktop/panel.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/package.json",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/views/modules/spend-wall/spend-wall.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/lib/api/spend_wall_api.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/pages/_category_spend_analysis.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/bower_components/moment/locale/sq.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/templates/walls/wall-card.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/purgora-services.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/postgres-extensions/UniqueQueue/stopServer.bat",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/templates/transaction-wall/transaction-rules-modal.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/lib/api/transaction_wall_api_dummy.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/bower_components/jquery/src/jquery.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/bower_components/jquery/src/data/var/data_user.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/bower_components/jquery/src/manipulation/_evalUrl.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/bower_components/jquery/src/manipulation/support.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/templates/tasks/task-detail/detail-modal.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/pages/_task_detail.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/lib/api/tasks_api_dummy.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/pages/_category_opportunity_analysis.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/pages/_tasks.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/views/modules/analysis/category-spend-analysis.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/components/_forms.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/views/modules/analysis/category-opp-analysis.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/pages/_supplier-rationalisation.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/views/modules/analysis/supplier-rationalisation.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/lib/api/performance_wall_api.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/modules/items/items.controller.js",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/components/forms/form.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/components/_typeahead.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/styles/components/_content_elements.scss",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/components/typeahead/typeahead.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/templates/tasks/task-card.html",
+		"/Applications/MAMP/htdocs/Purgora_Old/purgora/app/scripts/modules/company-structure/company-structure.controller.js"
+	],
+	"find":
+	{
+		"height": 39.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			"<open folders>",
+			"/Applications/MAMP/htdocs/Purgora/purgora_old,<open folders>",
+			"/Applications/MAMP/htdocs/Purgora/purgora_old",
+			"/Applications/MAMP/htdocs/Purgora",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora",
+			"<project folders>",
+			"<project files>",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\app\\scripts",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\lib\\api",
+			"<project files>",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\aggregation",
+			"<open files>",
+			"<project files>",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\aggregation\\",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\aggregation\\test",
+			"<project files>",
+			"<project files>,*node_modules*",
+			"<project files>,-*node_modules*",
+			"<project files>,-*node-modules*",
+			"<project files>,-*/node-modules/*",
+			"<project files>,-node-modules/*",
+			"<project files>",
+			"",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\+)",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\aggregation\\test",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\test",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\lib\\test",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\test",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\lib",
+			"<project folders>",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\aggregation",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\,C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema,C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema\\aggregation",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\*",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf",
+			"<project>",
+			"",
+			"CATEGORY_SPEND_SETTINGS",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\DBScripts\\schema",
+			"",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-mmf\\aggregation",
+			"<open files>",
+			"",
+			"<selected-text>",
+			"<project-files>",
+			"<current-file>",
+			"current-file",
+			"current-selection",
+			"C:\\Users\\5Volt\\Documents\\Jesla\\purgora-dev",
+			"<open folders>,<open files>"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"files",
+			"td",
+			"react-roter",
+			"components",
+			"Buttons",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"ButtonDemo",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"Button",
+			"button",
+			"ButtonDemo",
+			"buttonDemo",
+			"button",
+			"buttonDemo",
+			"buttonTemplate",
+			">\n",
+			"buttonTemplate",
+			"ButtonsDemo",
+			"Buttons",
+			"ScopedSelectors",
+			"ScopedAnimationsDemo",
+			"ScopedSelectors",
+			"<script src=\"https://cdn.rawgit.com/google/code-prettify/master/loader/run_prettify.js\"></script>",
+			"<script src=",
+			"img",
+			"Email",
+			"list_team",
+			">",
+			"<",
+			"lines",
+			"navigation",
+			"browser",
+			">",
+			"<",
+			"html",
+			"p_action",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			">",
+			"<",
+			".main-nav",
+			"nav",
+			"<a href",
+			"li class=\"\">",
+			"compi",
+			"To-do",
+			"to-do",
+			"To-do",
+			"to-do",
+			"To-do",
+			">",
+			"<",
+			">",
+			"<",
+			"if",
+			"for r",
+			"style=\"background-color:yellow;\"",
+			"pre",
+			";",
+			"script",
+			"<h3 class=\"h4\">",
+			"<h3>",
+			"info-strip",
+			".grid__item",
+			"g_color_charcoal_dark",
+			"#27272b",
+			"g_color_charcoal",
+			"g_color_off_white",
+			"g_color_grey_light",
+			"g_color_grey",
+			"g_color_grey_dark",
+			"g_color_yellow_light",
+			"g_color_blue",
+			"g_color_red",
+			"g_color_green_dark",
+			"g_color_green",
+			"g_color_turquoise",
+			"input_color_border",
+			"search_color_text",
+			"search_color_bg",
+			"g_color_off_black",
+			"27272b",
+			"about",
+			"</code></pre>",
+			"3 id",
+			"<h3 class=\"h3\">",
+			"<p class=\"h2\">",
+			"compile",
+			"\n<",
+			"compile",
+			"code",
+			"3s",
+			"1s",
+			"grid",
+			"red",
+			"page__header",
+			"section class=\"newsletter\"",
+			"head",
+			"(Instruc",
+			"instructions",
+			"<h4>",
+			"<h3>",
+			"<h2>",
+			"prettyprintkup",
+			"language",
+			"language-markup ",
+			"</span>",
+			"<span class=\"token selector\">",
+			"<span class=\"token attr-value\">",
+			"<span class=\"token attr-name\">",
+			"</span>",
+			"<span class=\"token comment\" spellcheck=\"true\">",
+			"<span class=\"token punctuation\">",
+			"<span class=\"token tag\">",
+			"fonts",
+			"system_parameters",
+			"pccXmlDoc",
+			"ENTER_KEY"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			"$g_color_charcoal_dark",
+			"section class=\"page__header\"",
+			"Trigger",
+			"dropdown",
+			"Dropdown",
+			"a",
+			"currencyFormat",
+			"'",
+			"req.query",
+			"showOptions",
+			"$scope.piShowOptions",
+			"\"",
+			"'",
+			"Suppliers",
+			"logFile.write",
+			"pWrite",
+			"perform",
+			"select",
+			");\n",
+			",\n",
+			"$",
+			"chargeDate",
+			"qty",
+			"line",
+			"invoice",
+			"}",
+			"",
+			" ",
+			"\"",
+			"\"\\1\":",
+			"\"\\1\"",
+			"\"\\0\"",
+			"\"\\1\":",
+			"\"",
+			"unclassified_spend = oldRow.unclassified_spend",
+			",",
+			"reporter",
+			",",
+			"invoice_hold_maps",
+			"invoice_holds",
+			"HoldID",
+			"holdID",
+			"reporter.report",
+			"reporter.Event",
+			"reporter",
+			":=",
+			"aggregate\\(\\1\\)",
+			"testPurchaseOrderPMs",
+			"",
+			"/usr/pgsql-9.3/lib/",
+			"sup_cat_life_cycles",
+			"",
+			"A",
+			"0",
+			"",
+			"typeCount",
+			"sup_cat_life_cycles",
+			"drop \\1 if exists \\3 cascade;",
+			"drop if exists \\2 cascade;",
+			"drop \\1 cascade;",
+			"drop \\1;",
+			"drop \\1 cascade;",
+			"drop \\1;",
+			"drop \\1 cascade",
+			"drop \\1 )",
+			"drop \\1) cascade",
+			"target",
+			"actual",
+			"float8",
+			"\"",
+			"null",
+			"",
+			"drop function if exists \\2 cascade;",
+			"approved_po_line_count",
+			"drop function if exists \\2 cascade;",
+			"drop \\1 if exists \\3 cascade;",
+			"drop \\1 if exists \\2 cascade;",
+			"drop \\1 if exists \\2 \\3;",
+			"exists ",
+			"id",
+			"value",
+			"val",
+			"poline",
+			"inRec",
+			"receipt_maps",
+			"receipt_lines",
+			"receipts",
+			"negatize",
+			"compare",
+			"$1$2",
+			"$1",
+			"%1",
+			";';",
+			"float8",
+			"double precision",
+			"lineJSON",
+			"PrjID",
+			"Category",
+			"Cat",
+			"",
+			"currentState",
+			"nextElement",
+			"externalItmID",
+			"internalItmID",
+			"item_maps",
+			"inItem",
+			"",
+			"getCategoriesAndSpend",
+			"description",
+			"parentID",
+			"inLine",
+			"supplier",
+			"category",
+			"supplier",
+			"LifeCycleStage",
+			"\"",
+			"POLine",
+			"PO Line",
+			"inCategory",
+			"\n         ",
+			" \n         ",
+			"\n         ",
+			"role",
+			"3.3",
+			"3",
+			"\"enum\"",
+			"new Date()"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 4,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "README.md",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 345,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								301,
+								301
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Markdown/Markdown.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "package.json",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1137,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								505,
+								505
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/JavaScript/JSON.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/index.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 78,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/app/App.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 415,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								105,
+								105
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": ".gitignore",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 32,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "src/app/shared/Snippet/Snippet.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1869,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								322,
+								322
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "src/app/shared/styles/table.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								56,
+								56
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "src/app/components/Button/ButtonDemo.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1086,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								924,
+								924
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"syntax": "Packages/Babel/JavaScript (Babel).tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 86.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "src/app/components/Button/ButtonSample.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 27,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								27,
+								27
+							]
+						],
+						"settings":
+						{
+							"BracketHighlighterBusy": false,
+							"bh_regions":
+							[
+								"bh_curly",
+								"bh_curly_center",
+								"bh_curly_open",
+								"bh_curly_close",
+								"bh_curly_content",
+								"bh_regex",
+								"bh_regex_center",
+								"bh_regex_open",
+								"bh_regex_close",
+								"bh_regex_content",
+								"bh_square",
+								"bh_square_center",
+								"bh_square_open",
+								"bh_square_close",
+								"bh_square_content",
+								"bh_double_quote",
+								"bh_double_quote_center",
+								"bh_double_quote_open",
+								"bh_double_quote_close",
+								"bh_double_quote_content",
+								"bh_single_quote",
+								"bh_single_quote_center",
+								"bh_single_quote_open",
+								"bh_single_quote_close",
+								"bh_single_quote_content",
+								"bh_angle",
+								"bh_angle_center",
+								"bh_angle_open",
+								"bh_angle_close",
+								"bh_angle_content",
+								"bh_tag",
+								"bh_tag_center",
+								"bh_tag_open",
+								"bh_tag_close",
+								"bh_tag_content",
+								"bh_round",
+								"bh_round_center",
+								"bh_round_open",
+								"bh_round_close",
+								"bh_round_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content",
+								"bh_c_define",
+								"bh_c_define_center",
+								"bh_c_define_open",
+								"bh_c_define_close",
+								"bh_c_define_content",
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content"
+							],
+							"open_with_edit": true,
+							"syntax": "Packages/HTML/HTML.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Pogostack.org",
+	"project": "cm-styleguide.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"butt",
+				"src/app/components/Button/ButtonDemo.js"
+			],
+			[
+				"pack",
+				"package.json"
+			],
+			[
+				"inde",
+				"src/index.js"
+			],
+			[
+				"nav",
+				"navigation.html-include"
+			],
+			[
+				"but",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"set",
+				"setup.html-template"
+			],
+			[
+				"sham",
+				"scss/_shame.scss"
+			],
+			[
+				"setup",
+				"setup.html-template"
+			],
+			[
+				"setu",
+				"setup.html-template"
+			],
+			[
+				"tutor",
+				"tutorial.html-template"
+			],
+			[
+				"foot",
+				"footer.html-include"
+			],
+			[
+				"forlo",
+				"for_loop.html-template"
+			],
+			[
+				"tut",
+				"tutorial_team_list.html-template"
+			],
+			[
+				"tuto",
+				"tutorial.html-template"
+			],
+			[
+				"tutorial",
+				"tutorial_part_2.html-template"
+			],
+			[
+				"part",
+				"partials.html-template"
+			],
+			[
+				"inc",
+				"includes.html-template"
+			],
+			[
+				"ife",
+				"if_else.html-template"
+			],
+			[
+				"if",
+				"if_else.html"
+			],
+			[
+				"fot",
+				"for_loop.html-template"
+			],
+			[
+				"doc",
+				"documentation-nav.html-include"
+			],
+			[
+				"docu",
+				"documentation.html-template"
+			],
+			[
+				"angul",
+				"pogo_and_angular.html-template"
+			],
+			[
+				"part_2",
+				"tutorial_part_2.html-template"
+			],
+			[
+				"her",
+				"scss/components/_hero.scss"
+			],
+			[
+				"head",
+				"scss/layout/_header.scss"
+			],
+			[
+				"re",
+				"scss/core/_reset.scss"
+			],
+			[
+				"de",
+				"scss/core/_defaults.scss"
+			],
+			[
+				"docume",
+				"documentation.html-template"
+			],
+			[
+				"code",
+				"scss/components/_code.scss"
+			],
+			[
+				"defa",
+				"scss/core/_defaults.scss"
+			],
+			[
+				"vars",
+				"scss/core/_vars.scss"
+			],
+			[
+				"header",
+				"header.html-include"
+			],
+			[
+				"foo",
+				"footer.html-include"
+			],
+			[
+				"var",
+				"scss/core/_vars.scss"
+			],
+			[
+				"em",
+				"scss/components/_email_form.scss"
+			],
+			[
+				"in",
+				"index.html-template"
+			],
+			[
+				"index",
+				"index.html-template"
+			],
+			[
+				"ham",
+				"scss/_shame.scss"
+			],
+			[
+				"button",
+				"scss/components/_buttons.scss"
+			],
+			[
+				"foote",
+				"scss/layout/_footer.scss"
+			],
+			[
+				"form",
+				"scss/components/_forms.scss"
+			],
+			[
+				"def",
+				"scss/core/_defaults.scss"
+			],
+			[
+				"sha",
+				"scss/_shame.scss"
+			],
+			[
+				"faq",
+				"faq.html-template"
+			],
+			[
+				"todo",
+				"to_do_app.html-template"
+			],
+			[
+				"",
+				"quick_start.html-template"
+			],
+			[
+				"quick",
+				"quick_start.html-template"
+			],
+			[
+				"quic",
+				"quick_start.html"
+			],
+			[
+				"page",
+				"scss/layout/_page.scss"
+			],
+			[
+				"pa",
+				"scss/layout/_page.scss"
+			],
+			[
+				"he",
+				"header.html-include"
+			],
+			[
+				"list",
+				"scss/components/_lists.scss"
+			],
+			[
+				"res",
+				"scss/core/_reset.scss"
+			],
+			[
+				"to",
+				"to_do_app.html-template"
+			],
+			[
+				"read",
+				"readme.md"
+			],
+			[
+				"rea",
+				"readme.md"
+			],
+			[
+				"navi",
+				"scss/layout/_navigation.scss"
+			],
+			[
+				"n",
+				"navigation.html-include"
+			],
+			[
+				"footer",
+				"scss/layout/_footer.scss"
+			],
+			[
+				"shm",
+				"scss/_shame.scss"
+			],
+			[
+				"icon",
+				"scss/components/_icons.scss"
+			],
+			[
+				"ema",
+				"scss/components/_email_form.scss"
+			],
+			[
+				"vra",
+				"scss/core/_vars.scss"
+			],
+			[
+				"hero",
+				"scss/components/_hero.scss"
+			],
+			[
+				"email",
+				"scss/components/_email_form.scss"
+			],
+			[
+				"fom",
+				"scss/components/_forms.scss"
+			],
+			[
+				"st",
+				"quick_start.html-template"
+			],
+			[
+				"ab",
+				"about.html-template"
+			],
+			[
+				"shame",
+				"scss/_shame.scss"
+			],
+			[
+				"index-te",
+				"index.html-template"
+			],
+			[
+				"qui",
+				"quick_start.html-template"
+			],
+			[
+				"red",
+				"readme.md"
+			],
+			[
+				"tod",
+				"to_do_app.html-template"
+			],
+			[
+				"scs",
+				"scss/_shame.scss"
+			],
+			[
+				"con",
+				"contact.html"
+			],
+			[
+				"do",
+				"documentation.html"
+			],
+			[
+				"b",
+				"about.html"
+			],
+			[
+				"sh",
+				"scss/_shame.scss"
+			],
+			[
+				"hea",
+				"scss/layout/_header.scss"
+			],
+			[
+				"la",
+				"scss/layout/_page.scss"
+			],
+			[
+				"home",
+				"home.pgasp"
+			],
+			[
+				"hom",
+				"home.pgasp"
+			],
+			[
+				"moda",
+				"components/modal/js/vanilla-ui.modal.js"
+			],
+			[
+				"tab",
+				"tabs/tabs.html"
+			],
+			[
+				"dr",
+				"dropdown/dropdown.html"
+			],
+			[
+				"js",
+				"tabs/js/vanilla-ui.tabs.js"
+			],
+			[
+				"drop",
+				"dropdown/js/vanilla-ui.dropdown.js"
+			],
+			[
+				"tb",
+				"tabs/tabs.html"
+			],
+			[
+				"grow",
+				"growarea/js/vanilla-ui. growarea.js"
+			],
+			[
+				"gr",
+				"growarea/growarea.html"
+			],
+			[
+				"css",
+				"textchanger/css/vanilla-ui.textchanger.css"
+			],
+			[
+				"tex",
+				"textchanger/js/vanilla-ui.textchanger.js"
+			],
+			[
+				"mod",
+				"modal/js/vanilla-ui.modal.js"
+			],
+			[
+				"tabs",
+				"tabs/js/vanilla-ui.tabs.js"
+			],
+			[
+				"t",
+				"tabs/tabs.html"
+			],
+			[
+				"tasknew",
+				"app/templates/tasks/task-detail-new/detail-modal.html"
+			],
+			[
+				"pan",
+				"app/components/panels/panel.html"
+			],
+			[
+				"spendwll",
+				"app/scripts/modules/spend-wall/spend-wall-controller.js"
+			],
+			[
+				"wallcon",
+				"app/scripts/modules/transaction-wall/transaction-wall-controller.js"
+			],
+			[
+				"services",
+				"app/scripts/app-services.js"
+			],
+			[
+				"taskde",
+				"app/templates/tasks/task-detail-new/detail-modal.html"
+			],
+			[
+				"tasks",
+				"app/views/modules/tasks/tasks.html"
+			],
+			[
+				"content",
+				"app/styles/components/_content_elements.scss"
+			],
+			[
+				"typeah",
+				"app/styles/components/_typeahead.scss"
+			],
+			[
+				"type",
+				"app/components/typeahead/typeahead.html"
+			],
+			[
+				"item",
+				"app/scripts/modules/items/items.controller.js"
+			],
+			[
+				"perf",
+				"lib/api/performance_wall_api.js"
+			],
+			[
+				"suprat",
+				"app/views/modules/analysis/supplier-rationalisation.html"
+			],
+			[
+				"supra",
+				"app/styles/pages/_supplier-rationalisation.scss"
+			],
+			[
+				"oppan",
+				"app/styles/pages/_category_opportunity_analysis.scss"
+			],
+			[
+				"oppana",
+				"app/views/modules/analysis/category-opp-analysis.html"
+			],
+			[
+				"forms",
+				"app/styles/components/_forms.scss"
+			],
+			[
+				"spend",
+				"app/styles/pages/_category_spend_analysis.scss"
+			],
+			[
+				"taskcard",
+				"app/templates/tasks/task-card.html"
+			],
+			[
+				"app",
+				"app/scripts/app.js"
+			],
+			[
+				"serv",
+				"app/scripts/app-services.js"
+			],
+			[
+				"bread",
+				"app/styles/components/_axis_breadcrumbs.scss"
+			],
+			[
+				"cards",
+				"app/styles/components/_cards.scss"
+			],
+			[
+				"wallca",
+				"app/templates/walls/wall-card.html"
+			],
+			[
+				"perfwall",
+				"app/views/modules/performance-wall/performance-wall.html"
+			],
+			[
+				"pills",
+				"app/styles/components/_pills.scss"
+			],
+			[
+				"filter",
+				"app/templates/views/filters-panel.html"
+			],
+			[
+				"pill",
+				"app/styles/components/_pills.scss"
+			],
+			[
+				"wallscs",
+				"app/styles/pages/_performance_wall.scss"
+			],
+			[
+				"run",
+				"app/templates/views/run-box.html"
+			],
+			[
+				"uservi",
+				"app/templates/views/user-view-panel.html"
+			],
+			[
+				"runbo",
+				"app/templates/views/run-box.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 517.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 260.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
