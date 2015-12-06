@@ -13,9 +13,6 @@ export default class App extends Component {
 
         <hr className={styles.hr} />
 
-		<h2>Button</h2>
-        <p>Standard button element.  There will be some really awesome text here about how to use it and all that type of good stuff.</p>
-
         <ButtonDemo />
 
         <hr className={styles.hr} />

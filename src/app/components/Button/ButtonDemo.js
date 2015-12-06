@@ -10,6 +10,12 @@ import Snippet from 'shared/Snippet/Snippet';
 export default class ButtonDemo extends Component {
 
   render() {
+
+  	const summary = {
+  		title: 'Button',
+  		description: 'Standard button element.  There will be some really awesome text here about how to use it and all that type of good stuff.'
+  	};
+
     const files = [
       { name: 'ButtonSample.html', source: html },
       { name: 'Button.js', source: js },
@@ -22,7 +28,8 @@ export default class ButtonDemo extends Component {
      ];
 
     return (
-      <Snippet files={files} properties={properties}>
+      <Snippet files={files} properties={properties} summary={summary}>
+      
         <Button text="Click Me" />
 
       </Snippet>

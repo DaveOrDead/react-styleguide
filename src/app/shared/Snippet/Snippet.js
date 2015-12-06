@@ -9,6 +9,10 @@ export default class Snippet extends Component {
     return (
       <div className={styles.root}>
 
+      	<h2>{ this.props.summary.title }</h2>
+
+      	<p>{ this.props.summary.description }</p>
+
         <div className={styles.output}>
           <div className={styles.fileName}>Mark up</div>
           <div className={styles.outputContent}>
