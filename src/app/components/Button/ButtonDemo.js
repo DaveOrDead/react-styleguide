@@ -4,7 +4,6 @@ import React, { Component } from 'react';
 
 import js from '!!raw!./Button.js';
 import css from '!!raw!./Button.css';
-import html from '!!raw!./ButtonSample.html';
 import Snippet from 'shared/Snippet/Snippet';
 
 export default class ButtonDemo extends Component {
@@ -17,7 +16,6 @@ export default class ButtonDemo extends Component {
   	};
 
     const files = [
-      { name: 'ButtonSample.html', source: html },
       { name: 'Button.js', source: js },
       { name: 'Button.css', source: css }
     ];
@@ -27,10 +25,18 @@ export default class ButtonDemo extends Component {
       { name: 'submissionInProgress', type: 'boolean', default: 'false', description: 'Button state for if an action is in progress' }
      ];
 
+     const standardButton = {
+        title: 'Standard Button',
+        description: 'I am a standard button.  I really like it',
+        markup: '<Button text="Click Me" submissionInProgress="true"/>'
+     };
+
+
     return (
+
       <Snippet files={files} properties={properties} summary={summary}>
 
-        <Button text="Click Me" submissionInProgress="true"/>
+        <Button text="Click Me" submissionInProgress="true" summary={standardButton} />
 
       </Snippet>
     );

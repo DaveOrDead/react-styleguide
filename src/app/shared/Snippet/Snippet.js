@@ -13,11 +13,14 @@ export default class Snippet extends Component {
 
       	<p>{ this.props.summary.description }</p>
 
-        <div className={styles.output}>
+        <div  className={styles.file}>
           <div className={styles.fileName}>Mark up</div>
-          <div className={styles.outputContent}>
-            { JSON.stringify(this.props.children) }
-          </div>
+          <pre className={styles.pre}>
+
+            { this.props.children.props.summary.markup }
+
+          </pre>
+
         </div>
 
         <div className={styles.output}>
