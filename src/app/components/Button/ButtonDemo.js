@@ -22,13 +22,14 @@ export default class ButtonDemo extends Component {
 
     const properties = [
       { name: 'text', type: 'string', default: 'click me', description: 'The main text of the button' },
-      { name: 'submissionInProgress', type: 'boolean', default: 'false', description: 'Button state for if an action is in progress' }
+      { name: 'state', type: 'string', default: 'normal', description: 'Accepts: "inProgress", "normal", disabled", "error"' },
+      { name: 'size', type: 'string', default: 'base', description: 'Accepts: "base", "small", "large"'}
      ];
 
      const standardButton = {
         title: 'Standard Button',
         description: 'I am a standard button.  I really like it',
-        markup: '<Button text="Click Me" submissionInProgress="true"/>'
+        markup: '<Button text="Click Me" />'
      };
 
 
@@ -36,7 +37,7 @@ export default class ButtonDemo extends Component {
 
       <Snippet files={files} properties={properties} summary={summary}>
 
-        <Button text="Click Me" submissionInProgress="true" summary={standardButton} />
+        <Button text="Click Me" state="inProgress" size="small" summary={standardButton} />
 
       </Snippet>
     );

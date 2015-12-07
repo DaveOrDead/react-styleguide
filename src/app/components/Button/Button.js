@@ -5,21 +5,28 @@ import React, { Component } from 'react';
 export default class Button extends Component {
 
   render() {
-  	let className, text = this.props.text
+  	let stateClass, sizeClass, text = this.props.text
 
-    if (this.props.submissionInProgress) {
-      className = styles.inProgress
+    if (this.props.state === 'inProgress') {
+      stateClass = styles.inProgress
       text = "Processing..."
-    } else if (this.props.errorOccurred) {
-      className = styles.error
-    } else if (!this.props.valid) {
-      className = styles.disabled
+    } else if (this.props.state === 'error') {
+      stateClass = styles.error
+    } else if (this.props.state === 'disabled') {
+      stateClass = styles.disabled
     } else {
-      className = styles.normal
+      stateClass = styles.normal
+    }
+
+
+    if (this.props.size === 'large') {
+      sizeClass = styles.large
+    } else if (this.props.size === 'small') {
+      sizeClass = styles.small
     }
 
     return (
-      <button className={className}>
+      <button className={`${stateClass} ${sizeClass}`} >
         {text}
       </button>
     );

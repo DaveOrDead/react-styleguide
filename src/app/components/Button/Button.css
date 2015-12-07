@@ -26,3 +26,11 @@
 	background-color: #e67e22;
 	border-bottom: 3px solid #d35400;
 }
+
+.large {
+    font-size: 20px;
+}
+
+.small {
+    font-size: 5px;
+}
