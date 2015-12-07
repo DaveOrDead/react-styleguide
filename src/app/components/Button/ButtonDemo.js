@@ -24,13 +24,13 @@ export default class ButtonDemo extends Component {
 
     const properties = [
       { name: 'text', type: 'string', default: 'click me', description: 'The main text of the button' },
-      { name: 'inProgress', type: 'boolean', default: 'false', description: 'Button state for if an action is in progress' }
+      { name: 'submissionInProgress', type: 'boolean', default: 'false', description: 'Button state for if an action is in progress' }
      ];
 
     return (
       <Snippet files={files} properties={properties} summary={summary}>
-      
-        <Button text="Click Me" />
+
+        <Button text="Click Me" submissionInProgress="true"/>
 
       </Snippet>
     );
