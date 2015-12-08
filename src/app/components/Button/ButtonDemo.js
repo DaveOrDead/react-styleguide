@@ -4,7 +4,7 @@ import React, { Component } from 'react';
 
 import js from '!!raw!./Button.js';
 import css from '!!raw!./Button.css';
-import Snippet from 'shared/Snippet/Snippet';
+import ComponentSummary from 'shared/Layout/ComponentSummary';
 
 export default class ButtonDemo extends Component {
 
@@ -35,11 +35,11 @@ export default class ButtonDemo extends Component {
 
     return (
 
-      <Snippet files={files} properties={properties} summary={summary}>
+      <ComponentSummary files={files} properties={properties} summary={summary}>
 
         <Button text="Click Me" state="inProgress" size="small" summary={standardButton} />
 
-      </Snippet>
+      </ComponentSummary>
     );
   }
 

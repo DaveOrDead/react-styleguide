@@ -1,9 +1,9 @@
-import styles from './Snippet.css';
+import styles from './ComponentSummary.css';
 import table from '../styles/table.css';
 
 import React, { Component } from 'react';
 
-export default class Snippet extends Component {
+export default class ComponentSummary extends Component {
 
   render() {
     return (
