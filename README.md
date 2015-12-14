@@ -1,4 +1,4 @@
-# CM Styleguide
+# React Styleguide
 
 A client side living styleguide for Campaign Monitor
 

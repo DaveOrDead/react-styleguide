@@ -1,8 +1,15 @@
+:global * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+
 .app {
   text-size-adjust: none;
   font-family: helvetica, arial, sans-serif;
-  line-height: 200%;
-  padding: 6px 20px 30px;
+
 }
 
 .hr {
@@ -10,4 +17,20 @@
   height: 1px;
   border: 0;
   background: #ccc;
+}
+
+.sidebar {
+    background-color: #011E2D;
+    max-width: 300px;
+}
+
+.grid {
+    display: block;
+
+}
+
+
+.grid__item {
+    display: inline-block;
+    vertical-align: top;
 }

@@ -1,0 +1,10 @@
+.navItem__link {
+    color: #FFF;
+    display: block;
+    text-decoration: none;
+    padding: 10px 20px;
+}
+
+.navItem__link:hover {
+    background-color: black;
+}
