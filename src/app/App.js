@@ -9,7 +9,7 @@ export default class App extends Component {
   render() {
     return (
       <div className={styles.app}>
-        <h1>Campaign Monitor Styleguide</h1>
+        <h1>React Styleguide</h1>
 
         <hr className={styles.hr} />
 
